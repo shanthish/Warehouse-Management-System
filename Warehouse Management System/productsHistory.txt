@@ -1,0 +1,15 @@
+Product ID: 1
+change_type: null
+quantity_change: 0
+change_date: 2024-11-14 12:29:19
+notes: null
+Product ID: 2
+change_type: adding
+quantity_change: 5
+change_date: 2024-11-14 12:51:18
+notes: nothing
+Product ID: 3
+change_type: add
+quantity_change: 44
+change_date: 2024-11-14 14:35:20
+notes: nogh
